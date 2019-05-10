@@ -8,7 +8,7 @@ The features include:
 * Online parser recognizing literals and 2-byte atoms in the code
 * Direct links for transferring the code into TIO or another Jelly Balls session
 * Automatic hints
-* Optimized for mobile deviced
+* Optimised for mobile devices
 
 ### Give it a try: [https://jellyballs.github.io](https://jellyballs.github.io)
 
